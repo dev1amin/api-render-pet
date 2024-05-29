@@ -3,17 +3,52 @@
     {
       "nome": "Elfo",
       "imagem": "https://i.imgur.com/pOdy70A.png",
-      "id": 1716157998744
+      "id": 1716157998744,
+      "avaliacoes": {
+        "5": 10,
+        "4": 4,
+        "3": 5,
+        "2": 4,
+        "1": 2
+      },
+      "comentarios": [
+        {
+          "usuario": "user1",
+          "rating": 5,
+          "comment": "Excelente produto!"
+        },
+        {
+          "usuario": "user2",
+          "rating": 4,
+          "comment": "Bom produto, poderia melhorar em alguns aspectos."
+        }
+      ]
     },
     {
       "nome": "T-rex",
       "imagem": "https://i.imgur.com/vGdoU6f.png",
-      "id": 1716158068342
+      "id": 1716158068342,
+      "avaliacoes": {
+        "5": 5,
+        "4": 3,
+        "3": 2,
+        "2": 1,
+        "1": 0
+      },
+      "comentarios": []
     },
     {
-      "id": 1716169214778,
       "nome": "Biscoito",
-      "imagem": "https://i.imgur.com/XJOV5cz.png"
+      "imagem": "https://i.imgur.com/XJOV5cz.png",
+      "id": 1716169214778,
+      "avaliacoes": {
+        "5": 7,
+        "4": 2,
+        "3": 1,
+        "2": 0,
+        "1": 0
+      },
+      "comentarios": []
     }
   ],
   "servicos": [
