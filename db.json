@@ -13,12 +13,10 @@
       },
       "comentarios": [
         {
-          "usuario": "user1",
           "rating": 5,
           "comment": "Excelente produto!"
         },
         {
-          "usuario": "user2",
           "rating": 4,
           "comment": "Bom produto, poderia melhorar em alguns aspectos."
         }
