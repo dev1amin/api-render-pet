@@ -94,15 +94,39 @@
   "local": [
   {
     "id": 1716162908437,
-    "nome": "Adoção de Animais",
-    "imagem": "https://i.imgur.com/MiQLU5v.jpg",
-    "endereço": "Av contorno 851, Savassi"
+    "nome": "Pet Café",
+    "imagem": "https://i.imgur.com/c9JGsX7.png",
+    "endereço": "R. Sergipe, 1187 - Savassi, Belo Horizonte - MG"
   },
   {
     "id": 1716838620440,
-    "imagem": "https://i.imgur.com/jNWxKyB.jpg",
-    "nome": "Adote amor",
-    "endereço": "Rua Sergipe 842, Savassi"
+    "imagem": "https://i.imgur.com/U2rEqQN.png",
+    "nome": "Pátio Savassi",
+    "endereço": "Av. do Contorno, 6061 - São Pedro, Belo Horizonte - MG"
+  },
+  {
+    "id": 1716162908437,
+    "nome": "Café com Letras",
+    "imagem": "https://i.imgur.com/h8E59QN.png",
+    "endereço": "R. Antônio de Albuquerque, 781 - Savassi, Belo Horizonte - MG"
+  },
+  {
+    "id": 1716162908437,
+    "nome": "CJ's Burguer",
+    "imagem": "https://i.imgur.com/6r2SpNa.png",
+    "endereço": "R. Fernandes Tourinho, 241 - Funcionários, Belo Horizonte - MG"
+  },
+  {
+    "id": 1716162908437,
+    "nome": "Dona Lucinha Restaurante",
+    "imagem": "https://i.imgur.com/DnGDZir.png",
+    "endereço": "R. Padre Odorico, 38 - Savassi, Belo Horizonte - MG"
+  },
+  {
+    "id": 1716162908437,
+    "nome": "BH Shopping",
+    "imagem": "https://i.imgur.com/z2tJ7fn.png",
+    "endereço": "BR-356, 3049 - Belvedere, Belo Horizonte - MG"
   }
   ],
   "evento": [
@@ -110,7 +134,13 @@
       "id": 1716452908437,
       "nome": "Encontro de goldens da Animalle Mundo Pet",
       "imagem": "https://i.imgur.com/3khwNB4.jpeg",
-      "descrição": "Atividades de socialização de cães e sorteio de brindes"
+      "descrição": "Atividades de socialização de cães e sorteio de brindes. Av. do Contorno, 8931 - Gutierrez, Belo Horizonte - MG"
+    },
+    {
+      "id": 1716452908437,
+      "nome": "REIKI PET",
+      "imagem": "https://i.imgur.com/3khwNB4.jpeg",
+      "descrição": "AESSENCIAL FEST - O melhor evento de terapia holística do Brasil. R. do Ouro, 900 - Serra, Belo Horizonte - MG"
     }
   ],
   "articles": [
